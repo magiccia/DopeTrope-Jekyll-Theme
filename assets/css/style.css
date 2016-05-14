@@ -851,3 +851,25 @@
 			border-radius: 5px;
 			margin: 0;
 		}
+
+/* Soul Source: Nav */
+.ss-nav-icon-small {
+  font-size: 0.5rem;
+  vertical-align: middle;
+  margin-left: 0.15rem;
+}
+
+#nav > ul > li > a.ss-nav-donate-button {
+  font-style: normal;
+  font-weight: bold;
+  color: #a12;
+}
+
+#nav > ul > li.ss-nav-divider {
+  width: 1px;
+  border-right: 1px solid #ddd;
+  display: inline;
+  margin: 0;
+}
+
+
