@@ -11,7 +11,7 @@ To assure your privacy, PayPal does not forward credit card or address informati
 
 To donate online using PayPal <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9X92V4EUK4VEN" target="blank">click here <i class="fa fa-paypal" aria-hidden="true"></i>.
 
-To donate online using via GiveMN<a href="https://www.givemn.org/organization/soulsourcefoundationGiveMN" target="blank"> click here<i aria-hidden="true"></i>.
+To donate online using via GiveMN<a href="https://givemn.org/project/womens-empowerment-and-education-in-western-kenya582a35688604e" target="blank"> click here<i aria-hidden="true"></i>.
 
 Or you can do it via mail to the next address:<br/>
 Soul Source Foundation<br/>
